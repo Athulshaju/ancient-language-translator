@@ -1,0 +1,10 @@
+pillow
+numpy
+pandas
+opencv-python
+opencv-contrib-python
+matplotlib
+tensorflow
+joblib
+keras
+scikit-learn
